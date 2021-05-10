@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: ✏️ 寵物園地
+subtitle: 'For [歡迎來此分享您與寵物的故事](https://wowchemy.com/)'
 
 design:
   background:
