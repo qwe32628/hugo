@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ✏️ 寵物園地
-subtitle: 'For [歡迎來此分享您與寵物的故事](https://wowchemy.com/)'
+subtitle: 'For [歡迎來此分享您與寵物的故事](https://yahoo.com/)'
 
 design:
   background:
